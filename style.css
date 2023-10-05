@@ -1,0 +1,26 @@
+img {
+  width: 260px; 
+
+  height:300px; 
+}
+
+h2{
+  margin-left: 290px;
+  padding: 5px; 
+}
+  
+ol {
+  margin-left: 300px;
+  padding: 5px; 
+}
+
+img{
+  float: left;
+}
+
+.top-img {
+  border-radius:50px;
+  margin: 10px;
+}
+
+
